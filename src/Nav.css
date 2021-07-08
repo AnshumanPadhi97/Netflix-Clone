@@ -32,3 +32,24 @@
 .nav_black {
   background-color: #111;
 }
+.nav a {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+  position: fixed;
+}
+.home {
+  left: 150px;
+}
+.tvshow {
+  left: 220px;
+}
+.movies {
+  left: 320px;
+}
+.new {
+  left: 400px;
+}
+.list {
+  left: 540px;
+}
